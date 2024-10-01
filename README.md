@@ -1,2 +1,0 @@
-# Harvest-Hub
-project work
